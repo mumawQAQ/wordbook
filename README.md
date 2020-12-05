@@ -27,7 +27,7 @@ Step 1:
 python program.py
 ~~~
 
-![1](.\readme_image\1.png)
+![1](https://github.com/wgr5600133/wordbook/blob/main/readme_image/1.png)
 
 由于cmd中可能会出现中文字体编码问题,如果你在第一步看不到中文,请选择n
 
@@ -37,11 +37,11 @@ Step 2:
 
 如果你是第一次试图用这个程序,则它会询问你的单词计划
 
-![3](.\readme_image\3.png)
+![3](https://github.com/wgr5600133/wordbook/blob/main/readme_image/3.png)
 
 如果你不是第一次使用这个程序,则它读取你之前设置的计划并开始运行
 
-![2](.\readme_image\2.png)
+![2](https://github.com/wgr5600133/wordbook/blob/main/readme_image/2.png)
 
 
 
