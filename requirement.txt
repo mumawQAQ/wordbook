@@ -1,0 +1,5 @@
+python 3#
+pandas
+PyInquirer
+playsound
+requests
