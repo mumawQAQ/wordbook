@@ -89,7 +89,7 @@ while True:
         word_list = word.get_words()
         word_time_dict = {word['index']: 0 for word in word_list}
         for word_info in word_list:
-
+            word_list = word_list.extend(word_list)
             questions = [
                 {
                     'type': 'confirm',

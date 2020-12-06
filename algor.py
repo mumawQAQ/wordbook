@@ -3,22 +3,6 @@ from datetime import *
 import math
 
 
-# # 遗忘曲线 可视化 r=e^1/(t*s)*100 t 为天数 s = 权重用分数表示 用log(1/x)表示 x为背诵次数
-# import math
-# import matplotlib.pyplot as plt
-#
-# t = 15
-# timeVStimemap = {}
-# for i in range(2, 100):
-#     s = math.log(1 / i)
-#     r = math.pow(math.e, 1 / (t * s)) * 100
-#     timeVStimemap[i] = r
-#
-# plt.plot(*zip(*sorted(timeVStimemap.items())))
-# plt.title("day 15")
-# plt.xlabel("forget times")
-# plt.ylabel("choose probability")
-# plt.show()
 
 # 在选每天复习的单词之前 更新一次概率
 class Algor(object):
