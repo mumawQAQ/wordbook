@@ -6,6 +6,32 @@ version: 1.0
 
 目前只能背GRE单词,未来会支持单词导入的 hhh
 
+## 遗忘曲线
+
+遗忘次数 VS 遗忘几率
+
+Day 1:
+
+![day1](https://github.com/wgr5600133/wordbook/blob/main/figures/day1.png)
+
+Day 2:
+
+![day2](https://github.com/wgr5600133/wordbook/blob/main/figures/day2.png)
+
+Day 4:
+
+![day4](https://github.com/wgr5600133/wordbook/blob/main/figures/day4.png)
+
+Day 7:
+
+![day7](https://github.com/wgr5600133/wordbook/blob/main/figures/day7.png)
+
+Day 15:
+
+![day15](https://github.com/wgr5600133/wordbook/blob/main/figures/day15.png)
+
+
+
 ## 功能
 
 1. 本程序使用python开发,兼容了在window的cmd中运行
@@ -17,7 +43,7 @@ version: 1.0
 
 note: 由于这个程序只在window上测试过，所以不确定对linux或mac的兼容性
 
-note: 需要提前配置程序的依赖环境
+note: 需要提前配置程序的依赖环境 详细配置在requirement.txt内
 
 启动方式：
 
